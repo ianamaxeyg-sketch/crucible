@@ -1,0 +1,52 @@
+{
+  "react-18.3.1/react.production.min.js": {
+    "source": "https://cdn.jsdelivr.net/npm/react@18.3.1/umd/react.production.min.js",
+    "source_sha256": "d949f1c3687aedadcedac85261865f29b17cd273997e7f6b2bfc53b2f9d4c4dd",
+    "sha256": "d949f1c3687aedadcedac85261865f29b17cd273997e7f6b2bfc53b2f9d4c4dd"
+  },
+  "react-dom-18.3.1/react-dom.production.min.js": {
+    "source": "https://cdn.jsdelivr.net/npm/react-dom@18.3.1/umd/react-dom.production.min.js",
+    "source_sha256": "35f4f974f4b2bcd44da73963347f8952e341f83909e4498227d4e26b98f66f0d",
+    "sha256": "35f4f974f4b2bcd44da73963347f8952e341f83909e4498227d4e26b98f66f0d"
+  },
+  "anthropic-sdk-1.7.0/sdk.mjs": {
+    "source": "https://cdn.jsdelivr.net/npm/@anthropic-ai/sdk@1.7.0/+esm",
+    "source_sha256": "19ecdb4403be7affb8b7e92514e1937ee72d7bf0c51d9cf2cd68a65fc01133d7",
+    "sha256": "e4c2b46b35c6204a35089ffc9825fc61efc3e70c0c32a321d87b690441fd3f74"
+  },
+  "anthropic-sdk-1.7.0/node.browser.mjs": {
+    "source": "https://cdn.jsdelivr.net/npm/@anthropic-ai/sdk@1.7.0/internal/node.browser.mjs/+esm",
+    "source_sha256": "2e5b4c7fa5985c0b0183aff65dd994c2ad41550ed650fc38794162b8676e09a4",
+    "sha256": "0faff441c4bb03bd2f2c86a9429741703fedaa9a7707a71f4fc72f28875f0415"
+  },
+  "anthropic-sdk-1.7.0/agent-toolset-node.browser.mjs": {
+    "source": "https://cdn.jsdelivr.net/npm/@anthropic-ai/sdk@1.7.0/tools/agent-toolset/node.browser.mjs/+esm",
+    "source_sha256": "8f8c3dc3ffede4ebac643073c63780aea157ef65924810f4550515bb316e0478",
+    "sha256": "0ecbc94b313e995469b3c1f5f04f7d93a715c8bda1d8883e4c849622af5490c7"
+  },
+  "anthropic-sdk-1.7.0/opentelemetry-api.mjs": {
+    "source": "https://cdn.jsdelivr.net/npm/@opentelemetry/api@1.10.0/+esm",
+    "source_sha256": "921690fec25b2d15133e692116dd80d1a54751efb63cf230765ad993b56d6115",
+    "sha256": "cf91c85020aed1f0ce190458f0ae3bb8486ee67d417631b5c4c43816090a569a"
+  },
+  "anthropic-sdk-1.7.0/standardwebhooks.mjs": {
+    "source": "https://cdn.jsdelivr.net/npm/standardwebhooks@1.1.1/+esm",
+    "source_sha256": "8df7d63173e554a800b77fc99b9f6a11e1a82a7b35c58382367adeda1d084c25",
+    "sha256": "3af6036304d46ba1302cb1c2a93b4602853112356463215d16cdfc8970e311e9"
+  },
+  "anthropic-sdk-1.7.0/stablelib-base64.mjs": {
+    "source": "https://cdn.jsdelivr.net/npm/@stablelib/base64@1.0.1/+esm",
+    "source_sha256": "f73196ffc4a79754831b6f54d27f902257b2ac8eb280786bae6d8be6057e20dc",
+    "sha256": "fc4068e73342a4881faec450f005b284ad5f57e83e075e47b254b3658ac17a61"
+  },
+  "anthropic-sdk-1.7.0/fast-sha256.mjs": {
+    "source": "https://cdn.jsdelivr.net/npm/fast-sha256@1.3.0/+esm",
+    "source_sha256": "9433f59580a920b8b3ebd603b4f2c2b39fe132b0f9dbab89367c85c5f65db376",
+    "sha256": "dd55ad4c2efb58bbe8d7c434bde99ea1e299e0a27ca7170d0d87dd9684ff4419"
+  },
+  "(build only) babel-7.26.10.min.js": {
+    "source": "https://cdn.jsdelivr.net/npm/@babel/standalone@7.26.10/babel.min.js",
+    "source_sha256": "7acf405141ca9e611b6d40aeef52071432d5f387cf906fc3556fb9f0b1a28601",
+    "sha256": "7acf405141ca9e611b6d40aeef52071432d5f387cf906fc3556fb9f0b1a28601"
+  }
+}
